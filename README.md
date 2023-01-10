@@ -1,3 +1,7 @@
+
+https://warm-blini-d30e4a.netlify.app/details/LION-KING
+
+
 # 14pages tailwind and react project including gaming  content 
 ![ofenos gaming home](https://user-images.githubusercontent.com/101650106/189661615-69ea6016-b6b1-4e79-9647-0796947fc411.png) 
 <br/>
