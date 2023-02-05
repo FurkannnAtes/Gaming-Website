@@ -1,5 +1,5 @@
 
-https://warm-blini-d30e4a.netlify.app/details/LION-KING
+https://warm-blini-d30e4a.netlify.app/
 
 
 # 14pages tailwind and react project including gaming  content 
